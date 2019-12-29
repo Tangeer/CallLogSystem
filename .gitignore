@@ -1,0 +1,6 @@
+# Project exclude paths
+/CallLogConsumerModule/target/
+/CallLogCoprocessorModule/target/
+/CallLogGenModule/target/
+/out/
+/ssm/target/
